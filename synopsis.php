@@ -21,7 +21,10 @@
             ?>
       <br>
       <h2>
-      In the Game of Thrones, you either win or you die. Nine noble families fight for control of the mythical land of Westeros. Political and sexual intrigue is pervasive. Robert Baratheon (Mark Addy), King of Westeros, asks his old friend, Lord Eddard Stark (Sean Bean), to serve as Hand of the King, or highest official.
+      In the Game of Thrones, you either win or you die.
+      Nine noble families fight for control of the mythical land of Westeros.
+      Political and sexual intrigue is pervasive.
+      Robert Baratheon (Mark Addy), King of Westeros, asks his old friend, Lord Eddard Stark (Sean Bean), to serve as Hand of the King, or highest official.
       </h2>
 
   </body>
